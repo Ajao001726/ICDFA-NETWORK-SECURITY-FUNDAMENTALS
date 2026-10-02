@@ -1,7 +1,7 @@
 # Network Communication Project
 
 ## Project Summary
-#Tracing an HTTPS Request Across the TCP/IP Model
+Tracing an HTTPS Request Across the TCP/IP Model
 A group project by junior network analysts. This Network Communication Project contains a presentation on how information travels across a network when a user opens a secure website (HTTPS), from the sending device to the destination and back.
 
 
